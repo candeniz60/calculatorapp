@@ -1,0 +1,17 @@
+C:\Users\abdus\source\repos\Calculater\Calculater\bin\Debug\net7.0-windows\Calculater.exe
+C:\Users\abdus\source\repos\Calculater\Calculater\bin\Debug\net7.0-windows\Calculater.deps.json
+C:\Users\abdus\source\repos\Calculater\Calculater\bin\Debug\net7.0-windows\Calculater.runtimeconfig.json
+C:\Users\abdus\source\repos\Calculater\Calculater\bin\Debug\net7.0-windows\Calculater.dll
+C:\Users\abdus\source\repos\Calculater\Calculater\bin\Debug\net7.0-windows\Calculater.pdb
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.csproj.AssemblyReference.cache
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.Form1.resources
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.csproj.GenerateResource.cache
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.AssemblyInfoInputs.cache
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.AssemblyInfo.cs
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.dll
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\refint\Calculater.dll
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.pdb
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\Calculater.genruntimeconfig.cache
+C:\Users\abdus\source\repos\Calculater\Calculater\obj\Debug\net7.0-windows\ref\Calculater.dll
